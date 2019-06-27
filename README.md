@@ -1,2 +1,2 @@
 # README
-- The plan is to build a web app using django angular 2+
+- The plan is to build myself a personal web app to help me brush up on angular.
